@@ -1,7 +1,8 @@
 # Search-and-games-assignment
 
 Haskell based assignment investigating various search methods.
-Submission code within Inf2d1.hs, other files contain setup, game rules etc.
+
+Submission code within skeleton file Inf2d1.hs, other files contain setup, game rules etc.
 
 Goals:
 1. Implement search algorithms for mazes
