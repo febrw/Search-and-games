@@ -1,4 +1,4 @@
-# Search-and-games-assignment
+# Search and games assignment
 
 Haskell based assignment investigating various search methods.
 
